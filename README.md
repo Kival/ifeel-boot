@@ -6,7 +6,7 @@ iFeel Boot integration boot components, for creating production-level applicatio
 
 ## iFeel Overview
 
-![ifeel-overview](E:\GitPro\ifeel\ifeel-boot\images\ifeel-overview.jpg)
+![ifeel-overview](images/ifeel-overview.jpg)
 
 ------
 
